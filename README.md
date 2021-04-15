@@ -1,8 +1,3 @@
-# todoReactApp
-Todo React App
+# Go to src/firebase/index.js
 
-npm install
-
-npm start
-
-npm build
+# And paste your firebase configuration.
